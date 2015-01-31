@@ -1,0 +1,48 @@
+.personal img {
+    width: 200px;
+    height:200px;
+    diplay: block;
+    margin: 0 auto;
+    border-radius: 7px;
+
+}
+
+.personal .info {
+    text-align: justify;
+    width: 200px;
+
+}
+.personal{
+    display: block;
+    float: left;
+    width: 20%;
+    height: 100%;
+    padding: 20px;
+
+}
+
+.left{
+    line-height:10px;
+}
+h1  {
+  color: darkslategray;
+  font-family: "Garamond";
+}
+
+p{
+    color: #2B295E;
+    font-family: "Helvetica";
+}
+
+
+.name{
+    color: #2B295E;
+}
+
+
+.posts{
+   padding: 15px;
+    width: 70%;
+    float: right;
+    display: block;
+}
